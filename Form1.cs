@@ -16,7 +16,7 @@ namespace HelloWorld
         {
             InitializeComponent();
         }
-
+// Just add a button to a blank form and you're good to go C#
         private void button1_Click(object sender, EventArgs e)
         {
             string helloWorld = "Hello World";
